@@ -1,6 +1,7 @@
 Laravel 3 Commander
 ===================
-
+####Note: A Laravel 4 version will be ready not long after the 4.0 release.
+ 
 This is a batch script to help with laravel command line work on windows. 
 Through the use of program launchers such a [Launchy](http://www.launchy.net/) and in combination with [Laravel-Generator](https://github.com/jeffreyway/laravel-generator) by [Jeffrey Way](https://twitter.com/jeffrey_way) shortcuts can be used to simplify a lot of common tasks.
 
@@ -31,7 +32,7 @@ A new project can be created by using
 
 ```laravel3 install [folder_name]```  ie: ```laravel3 install l3```
 
-This will then download the latest version of Laravel from Github and move all files into the chosen folder.<br>
+This will then download the latest version of Laravel 3 from Github and move all files into the chosen folder.<br>
 application.php will then be downloaded and moved to the correct place.
 Finally ```artisan key:generate``` will be executed to set up your secure key.
 
