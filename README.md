@@ -1,7 +1,7 @@
 Laravel 3 Commander
 ===================
-####Note: A Laravel 4 version will be ready not long after the 4.0 release.
- 
+####Note: A Laravel 4 version is available [Here](https://github.com/DavidAgar/Laravel4_Commander)
+
 This is a batch script to help with laravel command line work on windows. 
 Through the use of program launchers such a [Launchy](http://www.launchy.net/) and in combination with [Laravel-Generator](https://github.com/jeffreyway/laravel-generator) by [Jeffrey Way](https://twitter.com/jeffrey_way) shortcuts can be used to simplify a lot of common tasks.
 
